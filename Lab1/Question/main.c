@@ -4,7 +4,7 @@
 
 int main(void)
 {
- int i; int size;
+ int i, size;
  JobList list;
  size = initialize_elements (list);
  printf("The Jobs waiting on CPU are:\n");
@@ -14,4 +14,4 @@ int main(void)
  printJobList(list, size);
  return 0;
 }
- 
+
