@@ -4,14 +4,13 @@
 
 int main(void)
 {
- int i, size;
- JobList list;
- size = initialize_elements (list);
- printf("The Jobs waiting on CPU are:\n");
- printJobList(list, size);
- sortJobList(list, size);
- printf("The Jobs after sorting are:\n");
- printJobList(list, size);
- return 0;
+    int i, size;
+    JobList list;
+    size = initialize_elements(list);
+    printf("The Jobs waiting on CPU are:\n");
+    printJobList(list, size);
+    sortJobList(list, size);
+    printf("The Jobs after sorting are:\n");
+    printJobList(list, size);
+    return 0;
 }
-
