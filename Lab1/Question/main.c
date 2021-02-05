@@ -6,7 +6,7 @@ int main(void)
 {
     int i, size;
     JobList list;
-    size = initialize_elements(list);
+    size = inputJobs(list);
     printf("The Jobs waiting on CPU are:\n");
     printJobList(list, size);
     sortJobList(list, size);
