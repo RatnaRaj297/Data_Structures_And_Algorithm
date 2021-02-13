@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "seqlistops.h": "c",
-        "linkedlist.h": "c"
+        "linkedlist.h": "c",
+        "stdio.h": "c"
     }
 }

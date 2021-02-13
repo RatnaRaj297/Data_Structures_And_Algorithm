@@ -1,0 +1,60 @@
+The value of N is: 1561319
+Cyclic
+Total time time taken: 225.922000 ms.
+Total Heap space used: 24981120
+
+
+The value of N is: 1905601
+Cyclic
+Total time time taken: 99.938000 ms.
+Total Heap space used: 30489632
+
+
+The value of N is: 1330012
+Cyclic
+Total time time taken: 61.988000 ms.
+Total Heap space used: 21280208
+
+
+The value of N is: 1934036
+Linear
+Total time time taken: 68.451000 ms.
+Total Heap space used: 30944592
+
+
+The value of N is: 1389838
+Linear
+Total time time taken: 51.324000 ms.
+Total Heap space used: 22237424
+
+
+The value of N is: 1412685
+Linear
+Total time time taken: 49.967000 ms.
+Total Heap space used: 22602976
+
+
+The value of N is: 1145345
+Linear
+Total time time taken: 42.272000 ms.
+Total Heap space used: 18325536
+
+
+The value of N is: 1601586
+Cyclic
+Total time time taken: 76.609000 ms.
+Total Heap space used: 25625392
+
+
+The value of N is: 1657463
+Cyclic
+Total time time taken: 80.728000 ms.
+Total Heap space used: 26519424
+
+
+The value of N is: 1894010
+Linear
+Total time time taken: 69.115000 ms.
+Total Heap space used: 30304176
+
+
